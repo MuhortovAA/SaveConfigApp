@@ -1,0 +1,16 @@
+C:\Users\xbest\source\repos\SaveConfigApp\SaveConfigApp\bin\Debug\SaveConfigApp.exe.config
+C:\Users\xbest\source\repos\SaveConfigApp\SaveConfigApp\bin\Debug\SaveConfigApp.exe
+C:\Users\xbest\source\repos\SaveConfigApp\SaveConfigApp\bin\Debug\SaveConfigApp.pdb
+C:\Users\xbest\source\repos\SaveConfigApp\SaveConfigApp\obj\Debug\SaveConfigApp.csprojAssemblyReference.cache
+C:\Users\xbest\source\repos\SaveConfigApp\SaveConfigApp\obj\Debug\SaveConfigApp.csproj.CoreCompileInputs.cache
+C:\Users\xbest\source\repos\SaveConfigApp\SaveConfigApp\obj\Debug\SaveConfigApp.exe
+C:\Users\xbest\source\repos\SaveConfigApp\SaveConfigApp\obj\Debug\SaveConfigApp.pdb
+C:\Users\xbest\source\repos\SaveConfigApp\SaveConfigApp\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\xbest\source\repos\SaveConfigApp\SaveConfigApp\bin\Debug\System.Security.AccessControl.dll
+C:\Users\xbest\source\repos\SaveConfigApp\SaveConfigApp\bin\Debug\System.Security.Permissions.dll
+C:\Users\xbest\source\repos\SaveConfigApp\SaveConfigApp\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\xbest\source\repos\SaveConfigApp\SaveConfigApp\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\xbest\source\repos\SaveConfigApp\SaveConfigApp\bin\Debug\System.Security.AccessControl.xml
+C:\Users\xbest\source\repos\SaveConfigApp\SaveConfigApp\bin\Debug\System.Security.Permissions.xml
+C:\Users\xbest\source\repos\SaveConfigApp\SaveConfigApp\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\xbest\source\repos\SaveConfigApp\SaveConfigApp\obj\Debug\SaveConfigApp.csproj.CopyComplete
